@@ -12,7 +12,7 @@ This is the templte of webpage fork it and edite with your own changes
 
 **Option one:** One-click deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Achu2234/Website-templete-Vr-2)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Y-s-B-s/Website-templete-Vr-2)
 
 **Option two:** Manual clone
 
